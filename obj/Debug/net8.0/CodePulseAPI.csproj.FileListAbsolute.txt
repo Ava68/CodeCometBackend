@@ -170,3 +170,4 @@
 /Users/avadheshkumarsingh/projects/CodePulse/API/CodePulse.API/obj/Debug/net8.0/CodePulseAPI.csproj.CopyComplete
 /Users/avadheshkumarsingh/projects/CodePulse/API/CodePulse.API/obj/Debug/net8.0/CodePulseAPI.genruntimeconfig.cache
 /Users/avadheshkumarsingh/projects/CodePulse/API/CodePulse.API/obj/Debug/net8.0/ref/CodePulseAPI.dll
+/Users/avadheshkumarsingh/projects/CodePulse/API/CodePulse.API/obj/Debug/net8.0/CodePulseAPI.sourcelink.json
