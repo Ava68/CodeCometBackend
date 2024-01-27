@@ -1,8 +1,8 @@
-namespace CodePulse.API.Models.Domain
+
+namespace CodePulse.API.Models.DTO
 {
-    public class BlogPost
+    public class CreateBlogPostRequestDto
     {
-        public Guid id { get; set; }
         public string Title { get; set; }
         public string shortDescription { get; set; }
         public string Content { get; set; }
@@ -11,6 +11,6 @@ namespace CodePulse.API.Models.Domain
         public DateTime PublishedDate { get; set; }
         public bool IsVisible { get; set; }
         public string Author { get; set; }
-
     }
 }
+
