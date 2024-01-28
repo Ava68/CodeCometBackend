@@ -12,5 +12,9 @@ namespace CodePulse.API.Models.Domain
         public bool IsVisible { get; set; }
         public string Author { get; set; }
 
+        // one blogpost can have multiple category
+
+        public ICollection<Category> Categories { get; set; }
+
     }
 }
