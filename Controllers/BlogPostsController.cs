@@ -9,7 +9,7 @@ using CodePulse.API.Repositories.Implementation;
 
 namespace CodePulse.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[Controller]")]
     [ApiController]
     public class BlogPostsController : ControllerBase
     {

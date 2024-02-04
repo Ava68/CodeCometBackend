@@ -12,11 +12,13 @@ namespace CodePulse.API.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
         : base(options)
         {
-            
+
         }
         // DbSet class repersents collection of entities in a relational database
-        public DbSet<BlogPost> BlogPosts {get; set;}
-        public DbSet<Category> Categories  {get; set;}
+        public DbSet<BlogPost> BlogPosts { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<BlogImage> BlogImages { get; set; }
+
 
     }
 }

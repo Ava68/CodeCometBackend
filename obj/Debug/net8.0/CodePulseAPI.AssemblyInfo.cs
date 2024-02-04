@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodePulseAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5877532c12f70cb8f1250967bd6d219cd5ff84a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+157639ea39274a0c5c0f90125b517dba0d81990b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodePulseAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodePulseAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
